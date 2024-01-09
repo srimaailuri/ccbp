@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.appointmentDetails {
+  border-radius: 5px;
+  width: 300px;
+  border-style: groove;
+}
+.Star_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
